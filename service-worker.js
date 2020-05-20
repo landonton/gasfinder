@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gasfinder/precache-manifest.c44806ae7698aac265e5f786caf17f5e.js"
+  "/gasfinder/precache-manifest.7cb0876f0ff810d94263a9546c57d468.js"
 );
 
 self.addEventListener('message', (event) => {

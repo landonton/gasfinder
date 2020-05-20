@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bc6af52fd33b95ee519eb1aa6fa8662",
+    "revision": "371e1a3dd5394ab8f5aabb156e9421da",
     "url": "/gasfinder/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gasfinder/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "fa8dd6e54e6b04af9876",
-    "url": "/gasfinder/static/css/main.eccaaa82.chunk.css"
+    "revision": "754d1c2cc199505b683c",
+    "url": "/gasfinder/static/css/main.81cdf4c5.chunk.css"
   },
   {
     "revision": "46a4e89356a5062b23cd",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gasfinder/static/js/2.ad155eb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa8dd6e54e6b04af9876",
+    "revision": "754d1c2cc199505b683c",
     "url": "/gasfinder/static/js/main.0d049ef5.chunk.js"
   },
   {
